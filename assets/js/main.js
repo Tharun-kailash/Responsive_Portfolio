@@ -8,12 +8,12 @@ const navMenu=document.getElementById('nav-menu'),
 
 
 
-/* ====Menu hidden=========*/
+/* ============Menu hidden=========*/
 /* validate if constant exists */
 
 
 
-/* *************************** Remove menu mobile ******* */
+/* ******************** Remove menu mobile ******* */
 
 
 /* **************** Accordion Skills*********************** */
